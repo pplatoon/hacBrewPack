@@ -61,4 +61,4 @@ Also check template folder for default folder structure, makefile and npdm json
 
 This software is licensed under the terms of the ISC License.  
 You can find a copy of the license in the LICENSES file.  
-Portions of project HacBrewPack are parts of other projects, make sure to check LICENSES folderw
+Portions of project HacBrewPack are parts of other projects, make sure to check LICENSES folder
