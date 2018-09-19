@@ -3,7 +3,8 @@
 ![License](https://img.shields.io/badge/license-ISC-blue.svg)
 
 hacBrewPack is a tool for creating Nintendo Switch NCAs (Nintendo Content Archive) from homebrews and pack them into NSPs (Nintendo Submission Package)  
-
+hacBrewPack is WIP and it's at very early stages  
+  
 Thanks: SciresM, yellows8, SwitchBrew
 
 ## Usage
