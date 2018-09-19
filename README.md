@@ -29,7 +29,8 @@ You must place created nacp file with 'control.nacp' filename in control folder
 You should place your icon with "icon_{Language}.dat" file name in control folder, "icon_AmericanEnglish.dat" is the default one if you don't manually edit your nacp  
 Check [switchbrew](http://switchbrew.org/index.php/Settings_services#LanguageCode) for more info about language names  
 Your icon file format must be JPEG with 256x256 dimensions  
-If you have problems with icon, try to make it with Adobe Photoshop or inject Adobe Photoshop exif data to your icon file  
+If you see placeholder instead of icon after installing nsp, It's likely due to exif data, To delete extra exif data, Open icon with GIMP or Paint, save as bmp, Open it again and save as jpeg  
+If you have some exif data that horizon os doesn't like (like Camera Brand), Your app may leave in installing state in qlaunch  
 If you don't put your icon in control folder, you'll see a general icon after installing nsp (i don't recommend this)  
 "logo" folder should contain "NintendoLogo.png" and "StartupMovie.gif", they'll appear when the app is loading  
 Both files are not licensed according to [switchbrew](http://switchbrew.org/index.php/NCA_Content_FS) but i didn't include them anyway, You can also replace these files with custom ones  
