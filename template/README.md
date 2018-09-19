@@ -30,7 +30,7 @@ hacbrewpack
 |   |   icon_AmericanEnglish.dat
 ```
 
-You can skip creating of romfs with --noromfs and creating of logo with --nologo  
+You can skip creating program romfs with --noromfs and creating program logo with --nologo  
 You can use options to change default folder paths and names  
   
 Default output folders are:  
